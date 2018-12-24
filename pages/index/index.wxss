@@ -1,0 +1,22 @@
+/**index.wxss**/
+.HugeBtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 1px solid #74c4e915;
+  border-bottom: 1ps solid #65e1f7;
+  border-radius: 5px;
+  margin: 25px;
+  margin-bottom: 30px;
+  margin-top:30px;
+  padding: 8px;
+  background-color:#fff;
+  box-shadow: 0px 0px 8px 6px rgba(149, 230, 245, 0.8);
+  
+}
+.pic{
+  height: 90px;
+  width:90px
+}

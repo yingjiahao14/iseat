@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view >
+  <view class="HugeBtn" >       
+  <image class="pic" src="/image/Zuowei.png"></image>
+  <button bindtap="jumpChoose"class="button button-glow button-border button-rounded button-primary">
+  实时座位
+  </button>
+  </view>
+  <view class="HugeBtn" > 
+  <image class="pic" src="/image/Saoma.png"></image>
+  <button class="button button-glow button-border button-rounded button-primary"bindtap="click">扫码</button></view>
+</view>

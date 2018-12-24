@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/settings/settings",
+    "pages/floorchoosing/floorchoosing",
+    "pages/floor1/floor1",
+    "pages/floor5/floor5",
+    "pages/areaA/areaA"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#65e1f7",
+    "navigationBarTitleText": "图书馆座位管理",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/index.png",
+        "selectedIconPath": "image/zhuye.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath": "image/XINxi.png",
+        "selectedIconPath": "image/xin xi.png",
+        "text": "记录"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "iconPath": "image/geren.png",
+        "selectedIconPath": "image/user.png",
+        "text": "个人"
+      }
+    ]
+  }
+}

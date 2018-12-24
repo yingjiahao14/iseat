@@ -1,0 +1,6 @@
+<!--pages/floorchoosing/floorchoosing.wxml-->
+<view class="page">
+   <button bindtap="jumpArea" class="button button-glow button-border button-rounded button-primary">
+  一楼
+  </button>
+</view>

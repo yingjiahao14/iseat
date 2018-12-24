@@ -1,17 +1,13 @@
-/* pages/settings/settings.wxss *//* pages/users/users.wxss */
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.page-body-info {
+  padding-bottom: 0;
+  height: 230px;
 }
-
 .userinfo-avatar {
+  border-radius: 128rpx;
   width: 128rpx;
   height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
 }
-
 .userinfo-nickname {
-  color: #aaa;
+  margin-top: 20rpx;
+  font-size: 38rpx;
 }
